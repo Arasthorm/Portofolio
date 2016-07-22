@@ -1,0 +1,10 @@
+.occupy-projects {
+    width : 100%;
+}
+
+
+@media screen and (min-width: 990px){
+    .occupy-projects {
+        width: 50%
+    }
+}
