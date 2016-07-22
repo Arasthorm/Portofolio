@@ -7,4 +7,4 @@ Depending on the screen size, different sizes of images are displayed ensuring g
 
 ##To run the website you need to:
 - Download the repository.
-- Double click the index.html file
+- Double click the portofolio.html file
